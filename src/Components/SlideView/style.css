@@ -1,0 +1,21 @@
+.slide {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #030E22;
+	color: white;
+	font-size: 14px;
+}
+
+Table {
+	height: 100%;
+	width: 100%;
+	border: 1px solid;
+ 	table-layout: fixed;
+}
+
+ tr, td {
+	text-align: center;
+	border: 1px solid #B8B8B9;
+	border-radius: 2px;
+ }

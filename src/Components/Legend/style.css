@@ -1,0 +1,25 @@
+.legend {
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 12px;
+}
+
+Table {
+	height: 100%;
+	width: 100%;
+	border: 1px solid;
+ 	table-layout: fixed;
+}
+
+ tr, td {
+	border: 1px solid;
+	text-align: center;
+	min-width: min-content;
+	max-width: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+ }
