@@ -28,3 +28,7 @@ Following assumptions were taken while solving the problem:
 - The start point will be (0,0) in CS terms and (1,1) on pathologist slide shown on UI
 - The starting point won't be marked as visited initially, only if we visit it again it will be marked as visited and other operation will happen
 - Machine (in this case backend) is source of truth, if miscofiguration happens at any place (only frontend in this case) will sync with backend.
+
+## UI Snapshot
+![Screenshot 2023-04-08 at 5 42 04 PM](https://user-images.githubusercontent.com/33460761/230724158-36213dff-01b3-4b80-96c8-fd5194d41dc8.png)
+
