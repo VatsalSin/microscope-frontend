@@ -19,6 +19,10 @@ For development, you will need React.js, npm and Node.js installed in your envir
     $ cd microscope-frontend
     $ npm install
 
+### In case of issues with dependancy, a quick fix can be
+
+    $ npm install --force
+
 ## Running the project on port 3000
 
     $ npm start
